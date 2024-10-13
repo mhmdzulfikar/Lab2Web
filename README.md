@@ -6,7 +6,9 @@ dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan 
 penjelasannya!
 
-3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada 
+Pendeklarasian h1 {...} berlaku untuk semua elemen <h1> di dalam halaman. Sedangkan #intro h1 {...} hanya berlaku untuk elemen <h1> yang berada di dalam elemen dengan ID intro. Jadi, h1 mengatur semua <h1>, sementara #intro h1 lebih spesifik dan hanya mengatur <h1> dalam elemen dengan ID tertentu
+
+4. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada 
 elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan 
 penjelasan dan contohnya!
 
