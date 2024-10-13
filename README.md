@@ -8,7 +8,7 @@ penjelasannya!
 
 h1 mengatur semua h1, sementara #intro h1 lebih spesifik dan hanya mengatur h1 dalam elemen dengan ID tertentu..
 
-4. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada 
+3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada 
 elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan 
 penjelasan dan contohnya!
 
